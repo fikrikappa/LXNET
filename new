@@ -1003,11 +1003,11 @@ http://extraott.com:80/live/9708461610/1164158489/153713.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JV1m3dv.png",TNT SPORT 5
 http://extraott.com:80/live/9708461610/1164158489/62800.ts
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE CHANNEL",WWE CHANNEL
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sport",WWE CHANNEL
 http://supersonictv.live:8080/775562/877735/22185
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE CHANNEL",WWE LIVE
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sport",WWE LIVE
 http://supersonictv.live:8080/775562/877735/81864
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE CHANNEL",WWE TV
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sport",WWE TV
 https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 
 
