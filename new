@@ -995,6 +995,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Skynews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/330px-Sky-news-logo.png" tvg-id="skynews.uk" group-title="News",Skynews
+https://youtu.be/YDvsBbKfLPA
+
 <=============Christian Channels==================>
 
 
