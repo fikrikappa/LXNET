@@ -349,9 +349,6 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 
-<================ Korean Channels ===================>
-
-
 
 <================ Knowledge & Documentary ==========================>
 
@@ -995,12 +992,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Skynews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/330px-Sky-news-logo.png" tvg-id="skynews.uk" group-title="News",Skynews
-https://youtu.be/YDvsBbKfLPA
-
-<=============Christian Channels==================>
-
-
+#EXTINF:-1 tvg-name="Skynews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="skynews.uk" group-title="News",Skynews
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/06_1080-30.m3u8
 
 
 <=========================================== TVRI Group =========================================>
