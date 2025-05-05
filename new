@@ -37,17 +37,17 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -171,7 +171,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO SD",Cinemax
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax_2.m3u8
 
 <======================== Premium Movies ==========================>
 
@@ -995,42 +994,40 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 #EXTINF:-1 tvg-id="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNA_logo.svg/2560px-CNA_logo.svg.png" group-title="News", CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA
+http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
 
  #EXTINF:-1 tvg-id="77" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0be97c6e2c376db49be656d245fff8cb.png" group-title="News", NHK WORLD JAPAN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
  #EXTINF:-1 tvg-id="56" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/337ad0655095ee92a47b0c1c939862f2.png" group-title="News", AL JAZEERA ENGLISH
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ed414aa74c0d7648f3645f55c1286a28.png" group-title="News", TRT WORLD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TRT_World
+http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c55699cda773f7257e344c022be05b90.png" group-title="News", CCTV-4
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
- #EXTINF:-1 tvg-id="69" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qywjk5gSMc5bNfaDkOg7S0EArgiCOHSdROrxhTWgUrbg.png" group-title="News", FRANCE 24
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
+#EXTINF:-1 tvg-id="69" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qywjk5gSMc5bNfaDkOg7S0EArgiCOHSdROrxhTWgUrbg.png" group-title="News", FRANCE 24
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153855.m3u8
 
- #EXTINF:-1 tvg-id="90" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="News", TV5MONDE ASIE
+#EXTINF:-1 tvg-id="90" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="News", TV5MONDE ASIE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE
+http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8
 
- #EXTINF:-1 tvg-id="81" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj749WP3YWLAKI2H8zz4KUas.png" group-title="News", DW-TV
+#EXTINF:-1 tvg-id="81" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj749WP3YWLAKI2H8zz4KUas.png" group-title="News", DW-TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV
+http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
 KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
