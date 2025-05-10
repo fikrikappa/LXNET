@@ -667,6 +667,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMATH
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194462.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",SKY DUE it
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194453.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",SKY DUE+24 it
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194456.m3u8
 
 
 
