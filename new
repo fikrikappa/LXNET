@@ -353,15 +353,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Indonesia Channels",Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Knowledge & Documentary",Discovery
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Indonesia Channels",Discovery Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Knowledge & Documentary",Discovery Asia
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discoveryasia.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Indonesia Channels",Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Knowledge & Documentary",Discovery Science
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20science.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Indonesia Channels",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Knowledge & Documentary",Discovery Turbo
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20turbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Indonesia Channels",Discovery Investigation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Knowledge & Documentary",Discovery Investigation
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/INVESTIGATIONDISCOVERY.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg" group-title="Knowledge & Documentary",National Geographic
