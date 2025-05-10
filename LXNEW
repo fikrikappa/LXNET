@@ -663,12 +663,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAPR
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMASCIFI.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",SKY THRILLER
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMATHRILLER.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",SKY ROMANCE it
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",SKYit ROMANCE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194462.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",SKY DUE it
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",SKYit DUE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194453.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",SKY DUE+24 it
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",SKYit DUE+24
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194456.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",SKYit UNO
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194443.m3u8
 
 
 
