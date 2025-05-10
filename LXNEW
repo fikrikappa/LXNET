@@ -611,19 +611,19 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US 2
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBO2US.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US COMEDY
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOCOMEDYUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US FAMILY
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOFAMILYUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US ZONE
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOZONEUS.m3u8
 
 
@@ -794,12 +794,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Premium Movies",cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="Premium Movies",Cine Dios
-https://canal.mediaserver.com.co/live/cinedios.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Premium Movies",Movies Fe
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w861439369.m3u8
 
 <======================= Music ==========================>
 
