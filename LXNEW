@@ -626,6 +626,49 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOFAMILYUS.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOZONEUS.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSm9gAX.png" group-title="HBO",CANAL+ CINEMA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/889.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="HBO",CANAL+ ECRAN
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/568.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJfAUMj.png" group-title="HBO",CANAL+ CLUB
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/902.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="HBO",CANAL+ EMOTION
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/898.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="HBO",CANAL+ FAMIZ
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZnTBk8.png" group-title="HBO",CANAL+ FRISSON
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gU9diR.png" group-title="HBO",SKY ATLANTIC
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYATLANTIC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",SKY ANIMATION
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYANIMATION.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",SKY ACTION
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAACTION.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",SKY COMEDY
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMACOMEDY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",SKY DRAMA
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMADRAMA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",SKY FAMILY
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAFAMILY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",SKY GREATS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAGREATS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",SKY HITS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAHITS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="HBO",SKY PREMIERE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMAPREMIERE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",SKY SCIFI
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMASCIFI.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",SKY THRILLER
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_SKYCINEMATHRILLER.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",SKY ROMANCE it
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194462.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",SKY DUE it
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194453.m3u8
+
+
 
 <======================== Premium Movies ==========================>
 
@@ -639,14 +682,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20now.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Premium Movies",HALMARK US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HALLMARKUS.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1360.png" group-title="Premium Movies",ET! US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ETUS.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
@@ -659,22 +694,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-
 #EXTVLCOPT:http-referrer=https://visionplustv.id/
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
-#https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="Premium Movies", My Cinema Europe
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -778,8 +806,22 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 tvg-logo="" group-title="Premium Movies" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Premium Movies",HALMARK US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HALLMARKUS.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1360.png" group-title="Premium Movies",ET! US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ETUS.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Premium Movies",cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Premium Movies",TELENOVELA es
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/18419.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Premium Movies",PASIONES
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/359220.m3u8
 
 <======================= Music ==========================>
 
