@@ -412,15 +412,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports Ten 1
-http://opplex.tv:8080/live/mother/mother/167570.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187261.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports Ten 2
-http://opplex.tv:8080/live/mother/mother/167571.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187262.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-http://opplex.tv:8080/live/mother/mother/167572.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378745.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 4
-http://opplex.tv:8080/live/mother/mother/167595.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400375287.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 5
-http://opplex.tv:8080/live/mother/mother/167580.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378746.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Arena
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2902
