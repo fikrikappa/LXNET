@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",,Berita Satu
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
