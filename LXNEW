@@ -89,10 +89,6 @@ http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
-https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels",MOJI TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -115,6 +111,15 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="Indonesia Channels",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="Indonesia Channels",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="Indonesia Channels",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_500000=10001-mp4a_64000_eng=20000.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="Indonesia Channels",TVRI Sport HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_barat.png" group-title="Indonesia Channels",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_96000=20001.m3u8
 
 ============================== SPORTS ======================================================
 
