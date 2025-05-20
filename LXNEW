@@ -614,6 +614,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKYNEWS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="News",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="News",NBC News
+https://jmp2.uk/sam-USBB2200014DK.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News",CBS News
+https://jmp2.uk/sam-USBA370000104.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg" group-title="News",NEWS WORLD
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+
 <===================================== HBO =================================>
 
 
@@ -648,6 +655,26 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOFAMILYUS.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO US ZONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOZONEUS.m3u8
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/41da66359b2b294ee6c713d58cff7216.png" group-title="HBO",Cinemax US
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176019.ts
+#EXTINF:-1 tvg-logo="http://23.227.147.172:80/images/c71287c43d551d32173a280111ea60b0.png" group-title="HBO",FMX US
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176036.ts
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png" group-title="HBO",Epix US
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/0e6e1b00589f6861fe60fc452de012a5.png" group-title="HBO",Epix 2 US
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
@@ -880,6 +907,36 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/18419.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Movies Entertainment",PASIONES
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/359220.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies Entertainment",eTvBioskop1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies Entertainment",eTvBioskop2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies Entertainment", eTvBioskop3
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
+
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Movies Entertainment", Viva Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest?cb=20210920125940" group-title="Movies Entertainment", Tap Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 <================ Knowledge ==========================>
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
