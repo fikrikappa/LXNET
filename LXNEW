@@ -474,7 +474,8 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE CHANNEL
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181444.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE Classic
 http://kstv.us:8080/tH300gvHff/8606073792/47642
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",Impact!
