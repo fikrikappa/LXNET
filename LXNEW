@@ -67,7 +67,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Indonesia Channels",ANTV
-http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+https://smart.pendy.dpdns.org/Smart.php?id=Antv
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -90,7 +90,7 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
