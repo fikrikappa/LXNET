@@ -217,6 +217,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%2
 http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2880.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ARENA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS RACING
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191688.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",SPORT TV1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
@@ -432,22 +434,24 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400375287.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 5
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378746.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport 24
+http://pro6666.com:8080/live/dr.davidhouri/598627/467515.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Arena
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2902
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Premier League
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2877
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport FootBall
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2870
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Bundes liga
-http://afn4t.nicsew.xyz:80/live/te43148/Aj7AYPMJWv/911738.ts
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62431.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Calcio
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2687
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Racing
-http://skyglass.vip:8080/live/MK172277/QN282828/100455.ts
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Uno
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194524.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Golf
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2878
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Main Event
@@ -456,8 +460,8 @@ http://yesimes.oknirvana.club:8880/D12m3714/63343961/2881
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2880
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/29070
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Cricket
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2879
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194527.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Mix
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2882
 
