@@ -642,15 +642,9 @@ http://pro6666.com:8080/live/dr.davidhouri/598627/467953.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/Ivica5274/juric4005/176036.ts
 #EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png" group-title="HBO",US Epix
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/59225.m3u8
 #EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/0e6e1b00589f6861fe60fc452de012a5.png" group-title="HBO",US Epix 2
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/59224.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
@@ -985,6 +979,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 <=============== Kids Channels =====================>
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel US
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3142.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/330px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Jr US
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3141.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/330px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD US
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3140.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/330px-Disney%2B_logo.svg.png" group-title="Kids",Disney+ US
+http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/60230.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
