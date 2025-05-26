@@ -664,34 +664,47 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZnTBk8.png" group-title="HBO",CANAL+ FRISSON
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky Cinema Select UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium672/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky Cinema Hits UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium673/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky Cinema Greats UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium674/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky Cinema Animation UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium675/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky Cinema Family UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Family
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky Cinema Action UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium677/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky Cinema Comedy UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium678/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky Cinema Thriller UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Thriller
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium679/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky Cinema Drama UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium680/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky Cinema Sci-Fi Horror UK
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
 https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",SKYit ROMANCE
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",SKYit DUE
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium866/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",SKYit DUE+24
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium863/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",SKYit UNO
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium860/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky IT Cinema Action
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium861/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky IT Cinema Comedy
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium862/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno +24
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium863/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Romance
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky IT Cinema Family
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium865/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Due +24
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium866/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky IT Cinema Drama
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium867/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/512px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Suspense
+https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
 
 
