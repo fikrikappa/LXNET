@@ -502,7 +502,7 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE 24/7
-http://opplex.tv:8080/live/Raza335/3355141450/388817.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/7e9943e77dc86c5b0d0cccb97d6554546effe9c5/Wwe1.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE NET
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE Classic
