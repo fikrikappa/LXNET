@@ -518,15 +518,12 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://i.imgur.com/A2fJysM.pngg" group-title="News", Al Quran TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SunnaTV.id" tvg-name="Sunna TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="News", Al Sunnah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="News", SAUDI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="KSA TV" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="News", KSA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
