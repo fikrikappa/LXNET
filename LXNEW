@@ -130,120 +130,164 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_
 
 ============================== SPORTS ======================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 Fr
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 Fr
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 3 Fr
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 MY
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 MY
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 3 MY
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 ARAB
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/26.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 3 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 4 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 5 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 6 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 7 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 8 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 9 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 EN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 2 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/77.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/61.m3u8
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 6
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Sports",BEIN SPORTS AR 9
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/66.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9lTxQA.png" group-title="Sports",BEIN AR XTRA 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400193265.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08Y2CW1.png" group-title="Sports",BEIN AR XTRA 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400193264.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports",BEIN SPORTS EN 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 EN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Sports",BEIN SPORTS EN 2
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BEIN SPORTS EN XTRA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/42179.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXqMkzA.png" group-title="Sports",BEIN SPORTS Fr 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/685.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG48QI7.png" group-title="Sports",BEIN SPORTS Fr 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/686.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YbzCxeF.png" group-title="Sports",BEIN SPORTS Fr 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/687.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports",BEIN SPORTS Fr MAX4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/688.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="Sports",BEIN SPORTS Fr MAX5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/689.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",BEIN SPORTS Fr MAX6
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/690.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="Sports",BEIN SPORTS Fr MAX7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/691.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="Sports",BEIN SPORTS Fr MAX8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/692.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",BEIN SPORTS Fr MAX9
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/693.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="Sports",BEIN SPORTS Fr MAX10
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/694.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN ELEVEN 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165518.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN ELEVEN 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165519.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN ELEVEN 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165520.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN ELEVEN 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports",DAZN ELEVEN 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165522.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CdbEpFC.png" group-title="Sports",DAZN ELEVEN 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 ES
-http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2557.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 ES
-http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2556.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 3 ES
-http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2555.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 4 ES
-http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2554.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165523.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN De 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/164488.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN De 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/164489.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De NFL
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156475.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De NBA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156476.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De MLB
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156477.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De LFC
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156478.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De RISE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De FAST
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82241.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN Es 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360194.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN Es 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360195.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN Es 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379042.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN Es 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379043.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN Es F1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165888.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Sports",DAZN Es La LIGA 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440766.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Sports",DAZN Es La LIGA 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440765.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",DIGI 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",DIGI 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17310.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",DIGI 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17309.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",DIGI 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17308.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",ELEVEN 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9620.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",ELEVEN 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9619.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium41/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium42/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS TENNIS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS GOLF
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS SPL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS +
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225157.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ACTION
-http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/2880.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153703.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ARENA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS CRICKET
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191690.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS FOOTBALL
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS GOLF
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191685.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MIX
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189987.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS NEWS
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS PL
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS RACING
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191688.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS TENNIS
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/391269.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",SPORT TV1 4K
-http://pro6666.com:8080/live/dr.davidhouri/598627/488533.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/21231.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",SPORT TV1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165647.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",SPORT TV2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165648.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="Sports",SPORT TV3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165649.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports",SPORT TV4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",SPORT TV5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165651.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="Sports",SPORT TV6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165659.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Sports",SPORT TV7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/14246.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV+
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165652.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
@@ -251,15 +295,23 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551970.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551969.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551967.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551966.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551965.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551964.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551963.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC News
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63851.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT 1
 https://josh9456-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
@@ -434,6 +486,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/diw20TN.png" group-title="Sports",GINX TV
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181416.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports Ten 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187261.m3u8
