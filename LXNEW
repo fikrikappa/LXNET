@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 3 MY
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 ARAB
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 ARAB
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 3 ARAB
@@ -161,9 +161,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 9 ARAB
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 1 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="Sports",BEIN 2 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN ELEVEN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
