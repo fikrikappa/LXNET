@@ -257,23 +257,31 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS +
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225157.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ACTION
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153703.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153703.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53705.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ARENA
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35238.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS CRICKET
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191690.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191690.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/45940.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS FOOTBALL
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS GOLF
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191685.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191685.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35240.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35243.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MIX
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189987.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189987.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53706.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS NEWS
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35241.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS PL
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS RACING
@@ -549,12 +557,17 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE 24/7
-https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/7e9943e77dc86c5b0d0cccb97d6554546effe9c5/Wwe1.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE NET
-http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" group-title="Sports",WWE Classic
-http://kstv.us:8080/tH300gvHff/8606073792/47642
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
+http://line.lemotv.cc:80/Ivica5274/juric4005/2903216
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
+#http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
+http://cord-cutter.net:8080/JoanP@112/443@112/11645
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
+#http://kstv.us:8080/tH300gvHff/8606073792/47642
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/175754.m3u8
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE Legends
+#https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/7e9943e77dc86c5b0d0cccb97d6554546effe9c5/Wwe1.m3u8
+http://cord-cutter.net:8080/JoanP@112/443@112/178860
 
 <====================== News ========================>
 
@@ -766,21 +779,29 @@ https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premi
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium673/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium674/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium674/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35249.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium675/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium675/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53698.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Family
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53699.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium677/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium677/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35254.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium678/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium678/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35253.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Thriller
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium679/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium679/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35252.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium680/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium680/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35251.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
-https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
+#https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35248.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
