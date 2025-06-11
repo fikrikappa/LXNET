@@ -695,61 +695,61 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-80s-us.png" group-title="HBO",Cinevault 80s
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028397.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028397.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-classics-us.png" group-title="HBO",Cinevault Classics
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-westerns-us.png" group-title="HBO",Cinevault Western
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="HBO",Turner Classic Movies
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700102.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="HBO",US HBO Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379436.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379436.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",US HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700103.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700103.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="HBO",US HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700104.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="HBO",US HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379449.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379449.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="HBO",US 5StarMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176010.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176010.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="HBO",US CineMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176015.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176015.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="HBO",US ActionMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176011.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176011.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="HBO",US MoreMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176016.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176016.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="HBO",US MovieMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176018.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176018.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="HBO",US OuterMAX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176020.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176020.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/512px-ThrillerMax_Logo.svg.png" group-title="HBO",US ThrillerMax
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176021.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176021.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AKsg0q3.png" group-title="HBO",US FX
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176033.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176033.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dyLCv4.png" group-title="HBO",US FXM
-http://line.lemotv.cc:80/Ivica5274/juric4005/176036.ts
+http://line.lemotv.cc:80/Ivica5274/juric4005/176036.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="HBO",US MGM+
-http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
+http://line.lemotv.cc:80/Ivica5274/juric4005/176026.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" group-title="HBO",US MGM+ Drive-In
-http://line.lemotv.cc:80/Ivica5274/juric4005/176027.ts
+http://line.lemotv.cc:80/Ivica5274/juric4005/176027.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png" group-title="HBO",US MGM+ Hits
-http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
+http://line.lemotv.cc:80/Ivica5274/juric4005/176030.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="HBO",US MGM+ Marquee
-http://line.lemotv.cc:80/Ivica5274/juric4005/176028.ts
+http://line.lemotv.cc:80/Ivica5274/juric4005/176028.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
@@ -767,27 +767,27 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Crime Thriller
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Fantasy
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="HBO",Sky UK Cinema Premiere
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.ts
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
@@ -939,11 +939,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies Entertainment",eTvBioskop1
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+http://194.42.205.99:8070/live/F28312/cc1dc138/298526.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies Entertainment",eTvBioskop2
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies Entertainment", eTvBioskop3
-http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
+http://108.181.122.179:8070/live/F28312/cc1dc138/298514.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies Entertainment",Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -981,7 +981,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Movies Entertainment",FLIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-http://filex.tv:8080/live/shakeelmirza/4110440/302244.ts
+http://filex.tv:8080/live/shakeelmirza/4110440/302244.m3u8
 
 #EXTINF:-1 group-title="Movies Entertainment" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Xl7MJnd.png",Zee Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1238,7 +1238,7 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 http://190.102.246.93:9005/play/a01p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV Classic
-https://fl3.moveonjoy.com/MTV_CLASSIC/tracks-v1a1/mono.ts.m3u8
+https://fl3.moveonjoy.com/MTV_CLASSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV 1
 http://fl3.moveonjoy.com/MTV/index.m3u8
