@@ -681,83 +681,136 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.ts
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.ts
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO Family 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.ts
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO",HBO Signature
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.ts
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOUS.m3u8
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBO2US.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="HBO",US HBO 3
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700102.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="HBO",US HBO Comedy
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOCOMEDYUS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",US HBO FAMILY
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379436.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",US HBO Family
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOFAMILYUS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="HBO",US HBO ZONE
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700103.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="HBO",US HBO Signature
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOZONEUS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="HBO",US Movie MAX
-http://pro6666.com:8080/live/dr.davidhouri/598627/467953.m3u8
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700104.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="HBO",US HBO Zone
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379449.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="HBO",US 5StarMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176010.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="HBO",US CineMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176015.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="HBO",US ActionMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176011.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="HBO",US MoreMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176016.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="HBO",US MovieMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176018.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="HBO",US OuterMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176020.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/512px-ThrillerMax_Logo.svg.png" group-title="HBO",US ThrillerMax
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176021.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dyLCv4.png" group-title="HBO",US FXM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/Ivica5274/juric4005/176036.ts
-#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png" group-title="HBO",US Epix
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="HBO",US MGM+
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
-#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/0e6e1b00589f6861fe60fc452de012a5.png" group-title="HBO",US Epix 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" group-title="HBO",US MGM+ Drive-In
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176027.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png" group-title="HBO",US MGM+ Hits
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="HBO",US MGM+ Marquee
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176028.ts
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
@@ -774,34 +827,61 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZnTBk8.png" group-title="HBO",CANAL+ FRISSON
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium672/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium673/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium674/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35249.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium675/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/53698.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Family
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/53699.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium677/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35254.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium678/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35253.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Thriller
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium679/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35252.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Crime Thriller
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
-#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium680/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35251.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Fantasy
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="HBO",Sky UK Cinema Premiere
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
-#https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35248.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
