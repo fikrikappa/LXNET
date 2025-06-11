@@ -694,11 +694,11 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-80s-us.png" group-title="HBO",Cinevault 80s
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault 80s
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028397.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-classics-us.png" group-title="HBO",Cinevault Classics
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault Classics
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/cinevault-westerns-us.png" group-title="HBO",Cinevault Western
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault Western
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="HBO",Turner Classic Movies
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
