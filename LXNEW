@@ -680,28 +680,16 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.m3u8
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.m3u8
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO Family 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -784,106 +772,90 @@ http://line.lemotv.cc:80/Ivica5274/juric4005/176030.m3u8
 http://line.lemotv.cc:80/Ivica5274/juric4005/176028.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSm9gAX.png" group-title="HBO",CANAL+ CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/889.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="HBO",CANAL+ ECRAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/568.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJfAUMj.png" group-title="HBO",CANAL+ CLUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/902.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="HBO",CANAL+ EMOTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/898.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="HBO",CANAL+ FAMIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZnTBk8.png" group-title="HBO",CANAL+ FRISSON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Crime Thriller
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Fantasy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="HBO",Sky UK Cinema Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium860/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky IT Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium861/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky IT Cinema Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium862/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno +24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium863/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky IT Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium865/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Due +24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium866/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky IT Cinema Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium867/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/512px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://josh9456-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
 <======================== Movies Entertainment ==========================>
@@ -1015,10 +987,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies Entertainment",eTvBioskop1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies Entertainment",eTvBioskop2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies Entertainment", eTvBioskop3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://108.181.122.179:8070/live/F28312/cc1dc138/298514.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies Entertainment",Celestial Movies
@@ -1080,12 +1055,15 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Movies Entertainment",cine XOXO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Movies Entertainment",TELENOVELA es
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/18419.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Movies Entertainment",PASIONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/359220.m3u8
 
 #EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Movies Entertainment", Viva Cinema
@@ -1135,21 +1113,29 @@ https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="Knowledge",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666262.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Knowledge",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666261.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Knowledge",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176650.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Knowledge",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/33954.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Knowledge",Discovery Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400203473.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="Knowledge",Discovery History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191290.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg" group-title="Knowledge",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge",HGTV 
@@ -1482,6 +1468,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="BS日本映画専門チャンネル.jp" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="JAPAN",Nihon-Eiga-Senmon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
@@ -1519,6 +1506,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="映画・チャンネルNECO.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="JAPAN",NECO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="ムービープラス.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="JAPAN",movie_plus
@@ -1528,6 +1516,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="東映チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="JAPAN",toei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="時代劇専門チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="JAPAN",jidaigeki
