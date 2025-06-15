@@ -243,13 +243,13 @@ https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premi
 https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium42/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/js1/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",JSports 2		
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/js2/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",JSports 3		
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/js3/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",JSports 4		
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",GaoraSports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
