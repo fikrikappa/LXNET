@@ -568,12 +568,23 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/175754.m3u8
 http://cord-cutter.net:8080/JoanP@112/443@112/178860
 
 <====================== News ========================>
+
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar TV" tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="News", Al-Manar TV
+https://edge.fastpublish.me/live/index.m3u
+
 #EXTINF:-1 tvg-id="56" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/337ad0655095ee92a47b0c1c939862f2.png" group-title="News", AL JAZEERA ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://warningfm.github.io/v3/live/str/ns/f5f5c18cf037919.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News", CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=156
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://fta1-cdn-flr.visionplus.id/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
 
 #EXTINF:-1 tvg-name="CNN INT" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="ccn.us" group-title="News",CNN International
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181645.m3u8
