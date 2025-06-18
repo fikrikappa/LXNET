@@ -596,7 +596,7 @@ https://jmp2.uk/sam-USBA370000104.m3u8
 
 #EXTINF:-1 tvg-name="CNN INT" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="ccn.us" group-title="News",CNN International
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181645.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png" group-title="News",CNN US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN US
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/cnnus.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj749WP3YWLAKI2H8zz4KUas.png" group-title="News",DW-TV
