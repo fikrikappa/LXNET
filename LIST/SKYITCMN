@@ -1,0 +1,33 @@
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky IT Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248393.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/512px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194450.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky IT Cinema Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248392.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky IT Cinema Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194463.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/512px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194456.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_%2B24_-_Logo_2021.svg/512px-Sky_Cinema_Due_%2B24_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Due +24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194453.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky IT Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248391.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/512px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194462.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/512px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194461.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194443.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno +24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194455.m3u8
