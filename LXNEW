@@ -1202,7 +1202,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Knowledge",Love Nature
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/6638e39f8d20a96023b2e18c193bb4778c8f5f21/lovenature4k.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/157043.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="Knowledge",Global Trekker
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1455,11 +1455,11 @@ https://jmp2.uk/sam-USBD350003932.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music", XITE Rock x Metal
 https://jmp2.uk/sam-USBB2300004KV.m3u8
 
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_70s.png?raw=true" group-title="Music",NOW 70s
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_80s.png?raw=true" group-title="Music",NOW 80s
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_90s.png?raw=true" group-title="Music",NOW Rock
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ================================== JAPAN =========================================
