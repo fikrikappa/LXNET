@@ -1259,7 +1259,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/157043.m3u8
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
-#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="travelxp.4K.de" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Knwoledge",Travelxp 4K
+#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="travelxp.4K.de" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Knowledge",Travelxp 4K
 https://a1xs.vip/travelxpuhd
 
 #EXTINF:-1 group-title="Knowledge" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png",Crime Investigation
