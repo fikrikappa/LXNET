@@ -247,19 +247,21 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9619.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 3
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport Asia
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 1
+https://ott.udptv.com/stream/udptv/eurosport1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1847082.m3u8
+https://ott.udptv.com/stream/udptv/eurosport2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX SPORT 1
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/220387.m3u8
+https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FOX SPORT 2
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/220388.m3u8
+https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
 http://vthanh.utako.moe/js1/index.m3u8
@@ -273,37 +275,55 @@ http://vthanh.utako.moe/js4/index.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS +
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225157.m3u8
+https://a1xs.vip/2000012
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225157.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ACTION
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846771.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/53705.m3u8
+https://a1xs.vip/2000011
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846771.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ARENA
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35238.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS CRICKET
+https://a1xs.vip/2000006
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191690.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846774.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1 4K
+https://a1xs.vip/2000016
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846774.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS FOOTBALL
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
+https://a1xs.vip/2000003
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS GOLF
+https://a1xs.vip/2000009
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191685.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35240.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT 4K
+https://a1xs.vip/2000015
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35243.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MIX
+https://a1xs.vip/2000008
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189987.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/53706.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS NEWS
+https://a1xs.vip/2000004
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/35241.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS PL
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
+https://a1xs.vip/2000002
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS RACING
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191688.m3u8
+https://a1xs.vip/2000010
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191688.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS TENNIS
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/391269.m3u8
+https://a1xs.vip/2000013
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/391269.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport 24
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194523.m3u8
@@ -866,37 +886,58 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemaaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/391351.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="HBO",Sky UK Cinema Animation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemaanimation/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2104320.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="HBO",Sky UK Cinema Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemacomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228290.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="HBO",Sky UK Cinema Crime Thriller
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemathriller/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228284.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="HBO",Sky UK Cinema Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Fantasy
+https://ott.udptv.com/stream/skyuk/skycinemadrama/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228295.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="HBO",Sky UK Cinema Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemafamily/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="HBO",Sky UK Cinema Greats
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemagreats/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228287.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="HBO",Sky UK Cinema Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.m3u8
+https://a1xs.vip/210002
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228286.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="HBO",Sky UK Cinema Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.m3u8
+https://ott.udptv.com/stream/skyuk/skycinemapremier/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/228272.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="HBO",Sky UK Cinema Sci-Fi Horror
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium681%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="HBO",Sky UK Cinema Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
+https://a1xs.vip/210004
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
 
 <======================== Movies Entertainment ==========================>
 
@@ -1217,6 +1258,9 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/157043.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+
+#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="travelxp.4K.de" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Knwoledge",Travelxp 4K
+https://a1xs.vip/travelxpuhd
 
 #EXTINF:-1 group-title="Knowledge" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
