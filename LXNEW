@@ -383,13 +383,16 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/3056146.m3u8
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/3014017.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT 1
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846762.m3u8
+https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT 2
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846763.m3u8
+https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT 3
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846764.m3u8
+https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT 4
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2274006.m3u8
+https://a1xs.vip/2000024
+#EXTINF:-1  tvg-name="TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports" radio="false",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -405,13 +408,13 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596449.m3u8
+https://a1xs.vip/140001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596448.m3u8
+https://a1xs.vip/140002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 3
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596447.m3u8
+https://a1xs.vip/140003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 4
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596446.m3u8
+https://a1xs.vip/140004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 5
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
