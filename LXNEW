@@ -320,7 +320,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62442.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62431.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/387162.m3u8
+https://ott.udptv.org/stream/Sky/skysportmotogp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/387162.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194527.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
@@ -359,9 +360,12 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/14246.m3u8
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/399394.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
+http://ott.udptv.net/stream/iptv/spotv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
+
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
+http://ott.udptv.net/stream/iptv/spo2tv2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-1
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636371.m3u8
@@ -390,7 +394,7 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT 4
 https://a1xs.vip/2000024
-#EXTINF:-1  tvg-name="TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports" radio="false",TNT Sports Ultimate UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAyvqdH.png" group-title="Sports" ,TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
 
