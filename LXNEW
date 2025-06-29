@@ -275,10 +275,12 @@ http://vthanh.utako.moe/js4/index.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS +
+https://ott.udptv.com/stream/skyuk/skysportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000012
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225157.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ACTION
+https://ott.udptv.com/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000011
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846771.m3u8
 
@@ -286,68 +288,94 @@ https://a1xs.vip/2000011
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS CRICKET
+https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000006
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191690.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS F1
+https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000016
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/1846774.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS FOOTBALL
+https://ott.udptv.com/stream/skyuk/skysportsfootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000003
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS GOLF
+https://ott.udptv.com/stream/skyuk/skysportsgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000009
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191685.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MAIN EVENT
+https://ott.udptv.com/stream/skyuk/skysportsmainevent/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000015
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS MIX
+https://ott.udptv.com/stream/skyuk/skysportsmix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000008
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189987.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS NEWS
+https://ott.udptv.com/stream/skyuk/skysportsnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000004
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS PL
+https://ott.udptv.com/stream/skyuk/skysportspremierleague/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000002
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS RACING
+https://ott.udptv.com/stream/skyuk/skysportsracing/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000010
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191688.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS TENNIS
+https://ott.udptv.com/stream/skyuk/skysportstennis/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 https://a1xs.vip/2000013
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/391269.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport 24
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194523.m3u8
+https://ott.udptv.org/stream/Sky/skysport24/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194523.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Arena
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/387158.m3u8
+https://ott.udptv.org/stream/Sky/skysportarena/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/387158.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Calcio
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248367.m3u8
+https://ott.udptv.org/stream/Sky/skysportcalcio/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248367.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport F1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194529.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport FootBall
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194525.m3u8
+https://ott.udptv.org/stream/Sky/skysportf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194529.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Golf
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62442.m3u8
+https://ott.udptv.org/stream/Sky/skysportgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62442.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62431.m3u8
+https://ott.udptv.org/stream/Sky/skysportmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62431.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
 https://ott.udptv.org/stream/Sky/skysportmotogp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/387162.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194527.m3u8
+https://ott.udptv.org/stream/Sky/skysportnba/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194527.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248382.m3u8
+https://ott.udptv.org/stream/Sky/skysporttennis/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400248382.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Uno
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194524.m3u8
+https://ott.udptv.org/stream/Sky/skysportuno/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194524.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports Ten 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187261.m3u8
