@@ -687,7 +687,8 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC News
-https://ott.udptv.org/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://i.mjh.nz/.r/bbc-news.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -706,17 +707,19 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/cnnus.m3
 
 #EXTINF:-1 tvg-id="81" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj749WP3YWLAKI2H8zz4KUas.png" group-title="News",DW-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://ott.udptv.org/stream/astro/dw/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="FOXNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
-https://ott.udptv.org/stream/udptvus/foxnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YTc2YjM2MGRlYWVkLTkzNmEtMjNiNC0yMTY1LWZkMjYzMGUy/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
 #EXTINF:-1 tvg-id="69" tvg-logo="https://i.imgur.com/0QxTlwv.png" group-title="News", FRANCE 24
-https://ott.udptv.org/stream/astro/france24/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
@@ -865,7 +868,7 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YmI1MzMyYmI0YjJjLTdmMGEtZTlkNC0wNDhiLWY3YTQyODI4/master.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
