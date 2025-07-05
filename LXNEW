@@ -1432,9 +1432,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Knowledge",Haunt tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63934c218ef524000757b122/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Mysterytv.webp" group-title="Knowledge",Mystery TV
-https://is.gd/ereebi?GBBD50000320.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title="Knowledge",Paranormal
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b1e4189f5db20007ff03be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
