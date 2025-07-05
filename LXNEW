@@ -1411,7 +1411,7 @@ https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Knowledge",Pluto Paranormal
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" group-title=""Knowledge",Paranormal by WBtv
+#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" group-title="Knowledge",Paranormal by WBtv
 https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_GhostsAreReal_Wht_1920x1080.png" group-title="Knowledge",Ghosts Are real by WBtv
@@ -1426,19 +1426,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u
 #EXTINF:-1 tvg-logo="https://www.ghostdimension.co.uk/img/sean-bex2.png" group-title="Knowledge",Ghost Dimension
 https://dr2t9f8nivbc6.cloudfront.net/hls/WZBGXZA/20D476E24693/m.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title=""Knowledge"",Ghost Hunters
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Knowledge",Ghost Hunters
 https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title=""Knowledge"",Haunt tv
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Knowledge",Haunt tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63934c218ef524000757b122/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Mysterytv.webp" group-title=""Knowledge"",Mystery TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Mysterytv.webp" group-title="Knowledge",Mystery TV
 https://is.gd/ereebi?GBBD50000320.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title=""Knowledge"",Paranormal
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title="Knowledge",Paranormal
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b1e4189f5db20007ff03be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" group-title=""Knowledge"",Paranormal State
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" group-title="Knowledge",Paranormal State
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d591/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/alien_nation.png" group-title="Knowledge",Alien Nation
