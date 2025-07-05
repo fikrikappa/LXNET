@@ -759,11 +759,7 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 
 #EXTINF:-1 tvg-id="5251" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=165
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-id="BloombergTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -856,6 +852,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#EXTINF:-1 tvg-name="00S REPLAY" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="HBO",00s Replay
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-name="90S Throwback" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="HBO",90s Throwback
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-name="80S Rewind" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="HBO",80s Rewind
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault 80s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -971,10 +974,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="HBO",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://a1xs.vip/210006
@@ -1025,31 +1024,15 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
 https://a1xs.vip/210004
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/320px-Syfy.svg.png" group-title="HBO",SYFY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="HBO",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8
+
 <======================== Movies Entertainment ==========================>
-
-#EXTINF:-1  tvg-name="BBC One FHD" tvg-id="BBC.One.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="Movies Entertainment" radio="false",BBC One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MzJmNzY2NGE1MmQ2LTgzNDgtMzU4NC03ZDk1LWJjZTk5ODU2/master.m3u8
-#EXTINF:-1  tvg-name="BBC Two FHD" tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Movies Entertainment" radio="false",BBC Two
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NTVkYzFhNDNkNGI2LWUwMWItNDBmNC1jZDQwLTdhZmIxYWNl/master.m3u8
-#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Movies Entertainment",BBC Three
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Movies Entertainment",BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-
-#EXTINF:-1  tvg-name="iTV1 FHD" tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="Movies Entertainment" radio="false",iTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ODA1MzBhZDU3MTIyLWVmZGEtZjdkNC0xN2FkLWZkMTRjZTkz/master.m3u8
-#EXTINF:-1  tvg-name="iTV2 FHD" tvg-id="ITV2.HD.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="Movies Entertainment" radio="false",iTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MTU2ZDRjYmIxZjUyLTE1YWItN2UwNC1hYzJlLTQ1MTBjMGIy/master.m3u8
-#EXTINF:-1  tvg-name="iTV3 FHD" tvg-id="ITV3.HD.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Movies Entertainment" radio="false",iTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDY1MWYyNzcxNjk2LWZlOWEtZGVhNC1hYWJiLWY3MTBjNjZk/master.m3u8
-#EXTINF:-1  tvg-name="iTV4 FHD" tvg-id="ITV4.HD.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="Movies Entertainment" radio="false",iTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZjU2N2I3NTU1MGZkLTdmMzgtYTkyNC1kYjk3LWMwN2NlYTVi/master.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies Entertainment",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1290,6 +1273,30 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
+#EXTINF:-1  tvg-name="BBC One FHD" tvg-id="BBC.One.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="Movies Entertainment" radio="false",BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
+#EXTINF:-1  tvg-name="BBC Two FHD" tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Movies Entertainment" radio="false",BBC Two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Movies Entertainment",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Movies Entertainment",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+#EXTINF:-1  tvg-name="iTV1 FHD" tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="Movies Entertainment" radio="false",iTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ODA1MzBhZDU3MTIyLWVmZGEtZjdkNC0xN2FkLWZkMTRjZTkz/master.m3u8
+#EXTINF:-1  tvg-name="iTV2 FHD" tvg-id="ITV2.HD.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="Movies Entertainment" radio="false",iTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MTU2ZDRjYmIxZjUyLTE1YWItN2UwNC1hYzJlLTQ1MTBjMGIy/master.m3u8
+#EXTINF:-1  tvg-name="iTV3 FHD" tvg-id="ITV3.HD.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Movies Entertainment" radio="false",iTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDY1MWYyNzcxNjk2LWZlOWEtZGVhNC1hYWJiLWY3MTBjNjZk/master.m3u8
+#EXTINF:-1  tvg-name="iTV4 FHD" tvg-id="ITV4.HD.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="Movies Entertainment" radio="false",iTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZjU2N2I3NTU1MGZkLTdmMzgtYTkyNC1kYjk3LWMwN2NlYTVi/master.m3u8
+
 <================ Knowledge ==========================>
 
 
@@ -1394,6 +1401,48 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumen
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 tvg-name="Drone TV" tvg-id="DroneTV.distro" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Knowledge",Drone TV
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" group-title="Knowledge",Unidentified
+https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Knowledge",Pluto Paranormal
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" group-title=""Knowledge",Paranormal by WBtv
+https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_GhostsAreReal_Wht_1920x1080.png" group-title="Knowledge",Ghosts Are real by WBtv
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png" group-title="Knowledge",UnXplained Zone
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656538f8954b020008d389db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png" group-title="Knowledge",Beyond Belief Fact or Fiction
+https://stitcher.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
+
+#EXTINF:-1 tvg-logo="https://www.ghostdimension.co.uk/img/sean-bex2.png" group-title="Knowledge",Ghost Dimension
+https://dr2t9f8nivbc6.cloudfront.net/hls/WZBGXZA/20D476E24693/m.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title=""Knowledge"",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title=""Knowledge"",Haunt tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63934c218ef524000757b122/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Mysterytv.webp" group-title=""Knowledge"",Mystery TV
+https://is.gd/ereebi?GBBD50000320.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title=""Knowledge"",Paranormal
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b1e4189f5db20007ff03be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" group-title=""Knowledge"",Paranormal State
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d591/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/alien_nation.png" group-title="Knowledge",Alien Nation
+https://stitcher.pluto.tv/stitch/hls/channel/66621ed08ea5560008fde7c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 <=============== Kids Channels =====================>
 
@@ -1537,6 +1586,24 @@ http://190.102.246.93:9005/play/a01p
 
 #EXTINF:-1  tvg-name="mtvU" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="Music" radio="false",MTVU
 https://fl3.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV Love Music
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2d9aa530b200072ec8ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV Rock
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV On Tour
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632afdf820e83e000710ea12/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV Best Off
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632afdf820e83e000710ea12/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV Movies Hits
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="Music",MTV Party
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/StingrayLiteTVlogo.png" group-title="Music",Stingray Rock Classic
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
