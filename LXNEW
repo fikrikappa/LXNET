@@ -664,10 +664,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" group-title="Sports",Fight Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZmVlYmEzMGU4MjBlLTFlOWEtZjgxNC1iY2I1LTExZGU0MjJi/master.m3u8
-
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -680,7 +676,6 @@ http://cord-cutter.net:8080/live/JoanP@112/443@112/233992.m3u8
 https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZmVlYmEzMGU4MjBlLTFlOWEtZjgxNC1iY2I1LTExZGU0MjJi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/330px-WFN_2014_logo.svg.png" group-title="Sports",World Fishing Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjYxZGEyZjg1YmZkLWJhMmItYTM4NC1lZGY2LWRmMjkyNzJl/master.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
@@ -1318,16 +1313,16 @@ https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 #EXTINF:-1  tvg-name="iTV1 FHD" tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="Movies Entertainment" radio="false",iTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ODA1MzBhZDU3MTIyLWVmZGEtZjdkNC0xN2FkLWZkMTRjZTkz/master.m3u8
+https://a1xs.vip/1000011
 #EXTINF:-1  tvg-name="iTV2 FHD" tvg-id="ITV2.HD.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="Movies Entertainment" radio="false",iTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTU2ZDRjYmIxZjUyLTE1YWItN2UwNC1hYzJlLTQ1MTBjMGIy/master.m3u8
+https://a1xs.vip/1000012
 #EXTINF:-1  tvg-name="iTV3 FHD" tvg-id="ITV3.HD.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Movies Entertainment" radio="false",iTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NDY1MWYyNzcxNjk2LWZlOWEtZGVhNC1hYWJiLWY3MTBjNjZk/master.m3u8
+https://a1xs.vip/1000013
 #EXTINF:-1  tvg-name="iTV4 FHD" tvg-id="ITV4.HD.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="Movies Entertainment" radio="false",iTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZjU2N2I3NTU1MGZkLTdmMzgtYTkyNC1kYjk3LWMwN2NlYTVi/master.m3u8
+https://a1xs.vip/1000014
 
 <================ Knowledge ==========================>
 
