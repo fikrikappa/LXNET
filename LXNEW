@@ -186,9 +186,13 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/693.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/694.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports",CANAL+ SPORT
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2160269.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",CANAL+ SPORT 360
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2285534.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/56569.ts
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2160269.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",CANAL+ 360
+http://bestp55.xyz/live/A7FC77529786/519C32219872/311209.ts
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2285534.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sports",CANAL+ FOOT
+http://bestp55.xyz/live/A7FC77529786/519C32219872/311117.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN ELEVEN 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165518.m3u8
@@ -284,15 +288,15 @@ https://1rinij81ehes2uswech6drot7durixl2r0.rtgjmfvikmgtgrvkpbg.shop/zL7vB5kT3aO1
 https://1rinij81ehes2uswech6drot7durixl2r0.rtgjmfvikmgtgrvkpbg.shop/hN9eS4rZ1wM7fC3vJ0aX8pG2yQ5bUi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX SPORT 1
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://1rinij81ehes2uswech6drot7durixl2r0.rtgjmfvikmgtgrvkpbg.shop/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72358.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FOX SPORT 2
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://1rinij81ehes2uswech6drot7durixl2r0.rtgjmfvikmgtgrvkpbg.shop/9bfdo7kxd45sst08hbuh6rwhkykmitwb.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72359.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="Sports",FOX SOCCER PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72330.ts
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
 http://vthanh.utako.moe/js1/index.m3u8
@@ -438,17 +442,30 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/1908869.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Sports",SPORT TV7
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/14246.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/974660.ts
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/14246.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV+
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/399394.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1030779.ts
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/399394.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
-
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV2
 https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHP3Jhqf/ezgif-897ccc6e9cde8f.png" group-title="Sports",SPOTV PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fZh7fqZ/ezgif-7b9ea9165cf4dd.png" group-title="Sports",SPOTV PRIME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4y5jtJjk/ezgif-879d36ff5dd389.png" group-title="Sports",SPOTV PRIME+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-1
 https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
@@ -592,6 +609,20 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8rc2LNZ/ezgif-47ae28892fc98c.png" group-title="Sports",CHAMPIONS GOLF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189&type=dash
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/br2NVr6R/ezgif-4817cdb211de2d.png" group-title="Sports",CHAMPIONS GOLF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
+
+
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -681,10 +712,8 @@ https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjYxZGEyZjg1YmZk
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
 http://line.lemotv.cc:80/Ivica5274/juric4005/2903216
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
-#http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 http://cord-cutter.net:8080/JoanP@112/443@112/11645
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
-#http://kstv.us:8080/tH300gvHff/8606073792/47642
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/175754.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE Legends
 http://cord-cutter.net:8080/JoanP@112/443@112/178860
@@ -888,7 +917,8 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.m3u8
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="HBO",Turner Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
+http://143.244.60.30/TCM/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1058,6 +1088,19 @@ https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1OGU5NDc2OGMzNzcx
 
 <======================== Movies Entertainment ==========================>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies Entertainment",eTvBioskop1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies Entertainment",eTvBioskop2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies Entertainment", eTvBioskop3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="Movies Entertainment", eTvBioskop4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies Entertainment",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1073,19 +1116,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175864.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175866.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Mystery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175871.m3u8
 
 #EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/GUgEcjA.png" group-title="Movies Entertainment",Cinemachi-HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1122,6 +1152,19 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175864.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175866.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Mystery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/175871.m3u8
+
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies Entertainment",Rock Action
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1131,14 +1174,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Movies Entertainment", UNIVERSAL TV 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Movies Entertainment", UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-id="451" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies Entertainment",Warner TV
+#EXTINF:-1 tvg-id="451" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies Entertainment",Warner
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1151,11 +1194,10 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies Entertainment", Cinemaworld
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies Entertainment",AXN
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1165,13 +1207,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 #EXTINF:-1 group-title="Movies Entertainment" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.imgur.com/205RLbh.png",Galaxy
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 #EXTINF:-1 group-title="Movies Entertainment" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/oGKtYYG.png",Galaxy Premium
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 group-title="Movies Entertainment" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1180,36 +1226,26 @@ https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/Galaxy
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies Entertainment",Thriil
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/Thrill/sa_dash/Thrill.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=lite&chname=Thrill
 
+#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Movies Entertainment",MyCinema
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8app_type=web&userid=lite&chname=My_Cinema
+#EXTINF:-1 tvg-id="MyCinemaAsia" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies Entertainment",MyCinema Asia
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Movies Entertainment", My Cinema Europe
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Movies Entertainment",MyCinema
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
-#EXTINF:-1 tvg-id="MyCinemaAsia" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies Entertainment",MyCinema Asia
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 #EXTINF:-1 tvg-id="MyFamilyChannel" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Movies Entertainment",My Family Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies Entertainment",eTvBioskop1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies Entertainment",eTvBioskop2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies Entertainment", eTvBioskop3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://108.181.122.179:8070/live/F28312/cc1dc138/298514.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies Entertainment",Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
