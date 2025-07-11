@@ -732,7 +732,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="FOXNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://v8.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=ratp45G4OVqVEKmItxIbuw&expires=1752186962&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -892,55 +892,55 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=-eM6mqw-xoXGwUWSa7y5qA&expires=1752187099&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HBO/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=SptqLCCMptLv3IzzRR3Aog&expires=1752187081&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HBO_2/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700102.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="HBO",US HBO Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=I-Vsk0dFdcQ64a24l4n9ug&expires=1752187090&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HBO_COMEDY/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379436.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",US HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=GmSWoMuqxB97a6aI3OQeWw&expires=1752187109&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HBO_FAMILY/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700103.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="HBO",US HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=DijXs_sExXCanJvsyez4mA&expires=1752187118&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700104.m3u8
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/2700104.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="HBO",US HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=bONEyR2db4HV6JSf3OMGMg&expires=1752187127&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HBO_ZONE/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/2379449.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="HBO",US 5StarMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176010.m3u8
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/176010.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="HBO",US CineMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=uHNhGLh9iWljS8JH2KkZiw&expires=1752186751&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/176015.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="HBO",US ActionMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/176011.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="HBO",US MoreMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8?token=UMnMOce0rQYZeiGAqjVtsQ&expires=1752187237&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/176016.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="HBO",US MovieMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=gquQhPPLXb5NtN4R5j0_FQ&expires=1752187256&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/176018.m3u8
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/176018.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="HBO",US OuterMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/176020.m3u8
+http://143.244.60.30/OUTER_MAX/index.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/176020.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/512px-ThrillerMax_Logo.svg.png" group-title="HBO",US ThrillerMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/176021.m3u8
@@ -1076,15 +1076,15 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://v15.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8?token=E_HtYAlyyQYSE5M7JssOaw&expires=1752187054&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/175864.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://v4.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8?token=D2Ur22_sPA3uRaBLYHDh8A&expires=1752187063&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/175866.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Movies Entertainment",HALMARK Mystery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://v17.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=T_v7Ml5nsQyVzxFiZ_B93g&expires=1752187072&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/175871.m3u8
 
 #EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/GUgEcjA.png" group-title="Movies Entertainment",Cinemachi-HD
@@ -1471,13 +1471,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/66621ed08ea5560008fde7c9/master.m3u
 <=============== Kids Channels =====================>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel US
-https://v8.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=5gQ3xehS8VFZY9gMNzhJNQ&expires=1752186870&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/DISNEY/index.m3u8
 #http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3142.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/330px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Jr US
-https://v12.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=KuZTg585TWfHB0G5XkfLjQ&expires=1752186879&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/DISNEY_JR/index.m3u8
 #http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3141.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/330px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD US
-https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=Krgn17ShykY9HCI8sF-DZw&expires=1752186888&user_id=VXl0cHNXR3ZCYXZYVDJoc1JPdnFacmZPSHpTa0pNUm1lT0ZxVE5TdQ==
+http://143.244.60.30/DISNEY_XD/index.m3u8
 #http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/3140.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/330px-Disney%2B_logo.svg.png" group-title="Kids",Disney+ US
 http://yesimes.oknirvana.club:8880/live/D12m3714/63343961/60230.m3u8
