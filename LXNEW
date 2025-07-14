@@ -480,13 +480,17 @@ https://wahyu1ptv.pages.dev/SSCExtra3-HD.m3u8
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/3014017.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT 1
-https://a1xs.vip/2000021
+https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
+#https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT 2
-https://a1xs.vip/2000022
+https://wahyu1ptv.pages.dev/TNTSports2-HD.m3u8
+#https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT 3
-https://a1xs.vip/2000023
+https://wahyu1ptv.pages.dev/TNTSports3-HD.m3u8
+#https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT 4
-https://a1xs.vip/2000024
+https://wahyu1ptv.pages.dev/TNTSports4-HD.m3u8
+#https://a1xs.vip/2000024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAyvqdH.png" group-title="Sports" ,TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
