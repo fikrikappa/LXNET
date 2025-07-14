@@ -448,23 +448,9 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/1030779.ts
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/399394.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
-https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200729.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV2
-https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHP3Jhqf/ezgif-897ccc6e9cde8f.png" group-title="Sports",SPOTV PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fZh7fqZ/ezgif-7b9ea9165cf4dd.png" group-title="Sports",SPOTV PRIME 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4y5jtJjk/ezgif-879d36ff5dd389.png" group-title="Sports",SPOTV PRIME+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200728.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-1
 https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
@@ -623,29 +609,32 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id//
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstars 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=114&type=drm
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstars 4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd/
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -747,7 +736,8 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 https://jmp2.uk/sam-USBA370000104.m3u8
 
 #EXTINF:-1 tvg-name="CNN INT" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181645.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181645.m3u8
 #EXTINF:-1 tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN US
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/cnnus.m3u8
 
