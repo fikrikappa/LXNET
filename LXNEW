@@ -1721,12 +1721,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ================================== JAPAN =========================================
 
-
-
 #EXTINF:-1 group-title="JAPAN" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (low latency test)
-https://vthanh.utako.moe/nhkg_fast/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 2 
+https://vthanh.utako.moe/nhkg_nonHEVC/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="JOAXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
@@ -1770,6 +1768,8 @@ https://vthanh.utako.moe/Animax/index.m3u8
 https://vthanh.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 https://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
+https://vthanh.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://vthanh.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
@@ -1792,12 +1792,24 @@ https://vthanh.utako.moe/wcinema/index.m3u8
 https://vthanh.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
 https://vthanh.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://vthanh.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="JSPORTS2.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://vthanh.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="JSPORTS3.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+https://vthanh.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="JSPORTS4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+https://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
 https://vthanh.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="GAORASPORTS.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+https://vthanh.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://vthanh.utako.moe/skya/index.m3u8
 
 
+#EXTINF:-1 group-title="JAPAN" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg",NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://vthanh.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
@@ -1824,18 +1836,39 @@ https://vthanh.utako.moe/tbsch2/index.m3u8
 https://vthanh.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
 https://vthanh.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://vthanh.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="FujiTVTWO.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://vthanh.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://vthanh.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="Dlife.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
+https://vthanh.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="FIGHTINGTVSamurai.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
+https://vthanh.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+https://vthanh.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
 https://vthanh.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
 https://vthanh.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
+https://vthanh.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="NHKWorldPremium.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
+https://vthanh.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
 https://vthanh.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="Pigoo.jp" tvg-logo="https://pigoo.jp/images/pigoologo.png",Pigoo
-http://vthanh.utako.moe/pigoo/index.m3u8
-
+#EXTINF:-1 group-title="JAPAN" tvg-id="ChannelNECO.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+https://vthanh.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+https://vthanh.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://vthanh.utako.moe/v_paradise/index.m3u8
 
 #EXTM3U billed-msg="Always Refresh -- For Private Only"
