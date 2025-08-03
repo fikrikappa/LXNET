@@ -1833,19 +1833,19 @@ https://de.utako.moe/homedrama/index.m3u8
 https://de.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://de.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
+#EXTINF:-1 group-title="JAPAN" tvg-id="CGNTVJapan.jp" tvg-logo="https://i.imgur.com/5LNZeVq.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg",Toei Channel
 https://de.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ChannelNECO.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="ChannelNECO.jp" tvg-logo="https://i.imgur.com/4ZJdEvl.png",Neco Channel
 https://de.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+#EXTINF:-1 group-title="JAPAN" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.imgur.com/B2wzA67.png",Nihon Eiga Senmon
 https://de.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo
+#EXTINF:-1 group-title="JAPAN" tvg-id="Pigoo.jp" tvg-logo="https://pigoo.jp/img/portal_logo.png",Pigoo
 https://de.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise
+#EXTINF:-1 group-title="JAPAN" tvg-id="VParadise.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise
 https://de.utako.moe/v_paradise/index.m3u8
 
 #EXTM3U billed-msg="Always Refresh -- For Private Only"
