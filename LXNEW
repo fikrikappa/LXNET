@@ -1718,59 +1718,59 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ================================== JAPAN ========================================
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://vn.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://vn.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://vn.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
 https://vn.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 https://vn.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+ (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
 https://vn.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
 https://vn.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
 https://vn.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1 (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
 https://vn.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2 (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 https://vn.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1 (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
 https://vn.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2 (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
 https://vn.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
 https://vn.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
 https://vn.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
 https://vn.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
 https://vn.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
 https://vn.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
 https://vn.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
 https://vn.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
 https://vn.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
 https://vn.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://vn.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
 https://vn.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (US server)
-https://vn.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://us.utako.moe/nihon_eiga/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
 https://vn.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW) (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise
 https://vn.utako.moe/v_paradise/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW) (US server)
+#EXTINF:-1 group-title="JAPAN" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo
 https://vn.utako.moe/pigoo/index.m3u8 
 
 #EXTM3U billed-msg="Always Refresh -- For Private Only"
