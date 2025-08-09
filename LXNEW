@@ -44,10 +44,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/in
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia Channels",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2048714342_b744100_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2048714342_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia Channels",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia Channels",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -306,7 +310,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
-http://line.lemotv.cc:80/Ivica5274/juric4005/2903216
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
 http://cord-cutter.net:8080/JoanP@112/443@112/11645
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
@@ -409,13 +415,17 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De FAST
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82241.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN Es 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360194.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/64711
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360194.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN Es 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360195.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/64712
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360195.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN Es 3
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379042.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/269912
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379042.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN Es 4
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379043.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/269911
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379043.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN Es F1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165888.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Sports",DAZN Es La LIGA 1
@@ -445,10 +455,10 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://tv.arectv3.xyz/live/euro1.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/1160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://tv.arectv3.xyz/live/euro2.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/1159
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports",EuroSport 4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://7pal.short.gy/eusport4k
@@ -667,52 +677,50 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/3014017.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT 1
 https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
-#https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT 2
 https://wahyu1ptv.pages.dev/TNTSports2-HD.m3u8
-#https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT 3
 https://wahyu1ptv.pages.dev/TNTSports3-HD.m3u8
-#https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT 4
 https://wahyu1ptv.pages.dev/TNTSports4-HD.m3u8
-#https://a1xs.vip/2000024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAyvqdH.png" group-title="Sports" ,TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/6000001
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6521/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/6000002
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/6000003
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/6000004
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6445/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/6000005
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
-https://a1xs.vip/140001
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+#http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/851
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 2
-https://a1xs.vip/140002
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+#http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/2502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 3
-https://a1xs.vip/140003
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 4
-https://a1xs.vip/140004
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/2500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 5
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596445.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/5327
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596445.m3u8
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4514
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401596445.m3u8
 
-#EXTINF:-1  tvg-name="SE: V Sport Ultra HD" tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports" radio="false",SE: V Sport 4K
-https://a1xs.vip/9000013
 
 <====================== News ========================>
 
