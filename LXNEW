@@ -1007,27 +1007,30 @@ http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.lemotv.cc:80/Ivica5274/juric4005/176028.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/435x243/image/64df6ee111571/uploads/media/CANAL_Box_office_220x165.png" group-title="HBO",CANAL+ BOXOFFICE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/23810.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSm9gAX.png" group-title="HBO",CANAL+ CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/889.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="HBO",CANAL+ ECRAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/568.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OJfAUMj.png" group-title="HBO",CANAL+ CLUB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/902.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="HBO",CANAL+ EMOTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/898.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="HBO",CANAL+ FAMIZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/899.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZnTBk8.png" group-title="HBO",CANAL+ FRISSON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/900.m3u8
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="Canal+" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="HBO",Canal+
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/247
+#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="CANAL+ BOX OFFICE" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-CANALBOX-OFFICE.png" group-title="HBO",Canal+ BOX OFFICE
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/326682
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="Canal+ Cinema" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="HBO",Canal+ Cinema
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/249
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="Canal+ Series" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="HBO",Canal+ Series
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/252
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ GRAND ECRAN?" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_ cran_2022.png" group-title="HBO",Canal+ GRAND ECRAN
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250640
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ FIRST" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/c+first.png" group-title="HBO",Canal+ FIRST
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/231449
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="Cine+ OCS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="HBO",Cine+ OCS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/254
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="Cine+ Frisson" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="HBO",Cine+ Frisson
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/257
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="CINE+ FAMILY" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE_FAMILHD.png" group-title="HBO",Cine+ FAMILY
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/258
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="Cine + Emotion" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="HBO",Cine + Emotion
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/255
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="Cine+ FESTIVAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="HBO",Cine+ FESTIVAL
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="Cine+ Classic" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="HBO",Cine+ Classic
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/259
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="HBO",Sky UK Cinema Action
 https://a1xs.vip/210006
