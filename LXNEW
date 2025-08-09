@@ -1076,11 +1076,11 @@ https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/320px-Syfy.svg.png" group-title="HBO",SYFY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://fl3.moveonjoy.com/SYFY/index.m3u8
+https://fl6.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="HBO",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://a1xs.vip/300001
+https://fl3.moveonjoy.com/TNT/index.m3u8
 
 <======================== Movies Entertainment ==========================>
 
