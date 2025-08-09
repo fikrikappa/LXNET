@@ -483,10 +483,12 @@ http://iptvtree.net:8080/F11721/6ddb91eb/2312
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FOX SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="Sports",FOX SOCCER PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 http://bestp55.xyz/live/A7FC77529786/519C32219872/72330.ts
@@ -1066,8 +1068,11 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/391355.m3u8
 https://a1xs.vip/210004
 #http://line.lemotv.cc:80/live/Ivica5274/juric4005/391354.m3u8
 
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Miramax.svg/330px-Miramax.svg.png",Miramax Movies 
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/320px-Syfy.svg.png" group-title="HBO",SYFY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1762,7 +1767,7 @@ https://vn.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
 https://vn.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://us.utako.moe/nihon_eiga/index.m3u8
+https://vn.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
 https://vn.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise
