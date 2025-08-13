@@ -1782,7 +1782,7 @@ https://mt02.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg",Toei Channel
 https://mt02.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/B2wzA67.png",Nihon Eiga Senmon
-https://mt02.utako.moe/nihon_eiga/index.m3u8
+https://mt02.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://i.imgur.com/4ZJdEvl.png",Neco Channel
 https://mt02.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise
