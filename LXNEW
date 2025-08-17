@@ -465,9 +465,11 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/692
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/1160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/1555
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/1159
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports",EuroSport 4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
