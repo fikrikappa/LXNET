@@ -31,3 +31,30 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194443.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/512px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="HBO",Sky IT Cinema Uno +24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194455.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports",BEIN SPORTS EN 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Sports",BEIN SPORTS EN 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BEIN SPORTS EN XTRA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/42179.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXqMkzA.png" group-title="Sports",BEIN SPORTS Fr 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/685.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG48QI7.png" group-title="Sports",BEIN SPORTS Fr 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/686.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YbzCxeF.png" group-title="Sports",BEIN SPORTS Fr 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/687.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports",BEIN SPORTS Fr MAX4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/688.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="Sports",BEIN SPORTS Fr MAX5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/689.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",BEIN SPORTS Fr MAX6
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/690.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="Sports",BEIN SPORTS Fr MAX7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/691.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="Sports",BEIN SPORTS Fr MAX8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/692.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",BEIN SPORTS Fr MAX9
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/693.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="Sports",BEIN SPORTS Fr MAX10
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/694.m3u8
