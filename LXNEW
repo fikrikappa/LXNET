@@ -1799,14 +1799,14 @@ https://ca01.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/JBePECx.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg",Toei Channel
-https://ca01.utako.moe/toei/index.m3u8
+https://nl00.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/B2wzA67.png",Nihon Eiga Senmon
-https://ca01.utako.moe/nihoneiga/index.m3u8
+https://nl00.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://i.imgur.com/4ZJdEvl.png",Neco Channel
-https://ca01.utako.moe/neco/index.m3u8
+https://nl00.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise
-https://ca01.utako.moe/v_paradise/index.m3u8
+https://nl00.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png",Pigoo
-https://ca01.utako.moe/pigoo/index.m3u8 
+https://nl00.utako.moe/pigoo/index.m3u8 
 
 #EXTM3U billed-msg="Always Refresh -- For Private Only"
