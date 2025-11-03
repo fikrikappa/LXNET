@@ -1755,49 +1755,49 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 ================================== JAPAN ========================================
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://ca01.utako.moe/spaceshower/index.m3u8
+https://nl00.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",MTV
-https://ca01.utako.moe/mtv/index.m3u8
+https://nl00.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://ca01.utako.moe/AT-X/index.m3u8
+https://nl00.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://i.imgur.com/VSq7b5E.jpg",Disney Channel
-https://ca01.utako.moe/disneychan/index.m3u8
+https://nl00.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="cartoon_network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Japan
-https://ca01.utako.moe/cartoon_network/index.m3u8
+https://nl00.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="ntv_g_tasu" tvg-logo="https://i.imgur.com/7237pCC.png",Nittele G+
-https://ca01.utako.moe/ntvgplus/index.m3u8
+https://nl00.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="family_gekijo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
-https://ca01.utako.moe/familygeki/index.m3u8
+https://nl00.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/mmpjpu2.png",Mondo TV
-https://ca01.utako.moe/mondo/index.m3u8
+https://nl00.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Tbsch1_longver.svg/revision/latest/scale-to-width-down/512",TBS Channel 1
-https://ca01.utako.moe/tbsch1/index.m3u8
+https://nl00.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Tbsch2_jp2020.svg/revision/latest/scale-to-width-down/512",TBS Channel 2
-https://ca01.utako.moe/tbsch2/index.m3u8
+https://nl00.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://i.imgur.com/4I61QPs.png",TV Asahi Channel 1
-https://ca01.utako.moe/ex_ch1/index.m3u8
+https://nl00.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://i.imgur.com/9AFGZxu.png",TV Asahi Channel 2
-https://ca01.utako.moe/ex_ch2/index.m3u8
+https://nl00.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/UnbbZ6k.png",Fuji TV ONE
-https://ca01.utako.moe/fuji_one/index.m3u8
+https://nl00.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/ivcZJLj.png",Fuji TV TWO
-https://ca01.utako.moe/fuji_two/index.m3u8
+https://nl00.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest",Fuji TV NEXT
-https://ca01.utako.moe/fuji_next/index.m3u8
+https://nl00.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="dlife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dlife_logo.svg/330px-Dlife_logo.svg.png",Dlife
-https://ca01.utako.moe/dlife/index.m3u8
+https://nl00.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fighting_tv" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/761.png",Fighting TV Samurai
-https://ca01.utako.moe/fighting_tv/index.m3u8
+https://nl00.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="entermei_tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
-https://ca01.utako.moe/entermei_tele/index.m3u8
+https://nl00.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/Z2MGRxy.png",Sport Live Plus
-https://ca01.utako.moe/sport_live_plus/index.m3u8
+https://nl00.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="home_drama" tvg-logo="https://i.imgur.com/iNkKh7w.png",Home Drama Channel
-https://ca01.utako.moe/homedrama/index.m3u8
+https://nl00.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="channel_ginga" tvg-logo="https://www.ch-ginga.jp/assets/images/common/header_logo.png",Channel Ginga
-https://ca01.utako.moe/gingach/index.m3u8
+https://nl00.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/JBePECx.png",Tabi Channel
-https://ca01.utako.moe/tabi/index.m3u8
+https://nl00.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg",Toei Channel
 https://nl00.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/B2wzA67.png",Nihon Eiga Senmon
