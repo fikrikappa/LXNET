@@ -499,19 +499,26 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="Sports" radio="false",Fox Sports 501 NZ
-https://a1xs.vip/700001
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245137
+#https://a1xs.vip/700001
 #EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Sports" radio="false",Fox Sports 502 NZ
-https://a1xs.vip/700002
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245138
+#https://a1xs.vip/700002
 #EXTINF:-1  tvg-name="Fox Sports 503 FHD" tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Sports" radio="false",Fox Sports 503 NZ
-https://a1xs.vip/700003
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245139
+#https://a1xs.vip/700003
 #EXTINF:-1  tvg-name="Fox Sports 504 FHD" tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Sports" radio="false",Fox Sports 504 NZ
-https://a1xs.vip/700004
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245140
+#https://a1xs.vip/700004
 #EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Sports" radio="false",Fox Sports 505 NZ
-https://a1xs.vip/700005
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245141
+#https://a1xs.vip/700005
 #EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Sports" radio="false",Fox Sports 506 NZ
-https://a1xs.vip/700006
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245142
+#https://a1xs.vip/700006
 #EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Sports" radio="false",Fox Sports 507 NZ
-https://a1xs.vip/700007
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245143
+#https://a1xs.vip/700007
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
 https://mt01.utako.moe/js1/index.m3u8
@@ -741,6 +748,17 @@ https://fl25.moveonjoy.com/TSN_5/index.m3u8
 #https://a1xs.vip/6000005
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT EXTRA
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-extra.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT PREMIUM
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-premium.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT FOOTBALL
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-football.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT MOTOR
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-motor.m3u8?raw=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
