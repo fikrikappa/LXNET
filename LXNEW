@@ -34,7 +34,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png",SindoNews
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -413,24 +414,23 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440766.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440765.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",DIGI 1
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2523/index.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",DIGI 2
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2522/index.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17310.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17310.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",DIGI 3
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2524/index.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17309.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17309.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",DIGI 4
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2538/index.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17308.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17308.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",ELEVEN 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9620.m3u8
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9620.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",ELEVEN 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9619.m3u8
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9619.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 3
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9618.m3u8
 #EXTINF:-1  tvg-name="Eleven Sports 1 4K" tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="Sports" radio="false",Eleven Sports 1 4K
 https://a1xs.vip/14001
 
@@ -876,7 +876,7 @@ https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK WORLD JAPAN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-url="https://bit.ly/AstroEpg" tvg-name="NHK World Premium HD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News", NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://i.imgur.com/A2fJysM.pngg" group-title="News", Al Quran TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1110,10 +1110,9 @@ https://fl1.moveonjoy.com/TNT/index.m3u8
 <======================== Movies Entertainment ==========================>
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies Entertainment",Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Movies Entertainment",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1205,19 +1204,19 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Movies Entertainment",MyCinema
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8app_type=web&userid=lite&chname=My_Cinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="MyCinemaAsia" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies Entertainment",MyCinema Asia
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Movies Entertainment", My Cinema Europe
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="MyFamilyChannel" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Movies Entertainment",My Family Channel
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies Entertainment",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -1281,9 +1280,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/18419.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Movies Entertainment",PASIONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/359220.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/passionNovelas.webp" group-title="Movies Entertainment",Passion Novelas
-https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Movies Entertainment", Viva Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
