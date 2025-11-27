@@ -827,10 +827,6 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="News",Reuters LIVE 1
-https://d1qvkrpvk32u24.cloudfront.net/RL/smil:EU-a2e3958e-3b99-46bd-ad7d-a1c75f60b54a.smil/870995316055909635956373479307467471698rslrbukd7hm61vx15uugcjlcl/chunklist_b2048000.m3u8
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="News",Reuters LIVE 2
-https://d1qvkrpvk32u24.cloudfront.net/RL/smil:US-8a5fafed-5c16-4b30-870e-c7bde878a21c.smil/480202202767674625429439375372995253349fusqhbwiaekcjkerf6lvalyt3/chunklist_b2048000.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
