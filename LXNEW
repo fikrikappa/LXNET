@@ -316,7 +316,7 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
-http://cord-cutter.net:8080/JoanP@112/443@112/11645
+http://cord-cutter.net:8080/JoanP@112/443@112/233922
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/175754.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE Legends
