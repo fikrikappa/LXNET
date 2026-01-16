@@ -391,23 +391,20 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De FAST
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82241.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN Es 1
-http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/64711
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360194.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/292616.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN Es 2
-http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/64712
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/360195.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/292617.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN Es 3
-http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/269912
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379042.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/292618.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN Es 4
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/269911
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379043.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN Es F1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165888.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Sports",DAZN Es La LIGA 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440766.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/430776.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Sports",DAZN Es La LIGA 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400440765.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/430777.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",DIGI 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
@@ -612,9 +609,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62442.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62431.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
-http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
-#https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/387162.m3u8
+#http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/7799.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/194527.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
@@ -909,23 +905,24 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 <===================================== HBO =================================>
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/96.m3u8
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/97.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO Family 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/98.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO",HBO Signature
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://zozotv.xyz:8080/live/faizal1998/zoz161/99.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/107.m3u8
 
 
 #EXTINF:-1 tvg-name="00S REPLAY" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="HBO",00s Replay
@@ -946,13 +943,12 @@ http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.m3u8
 http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="HBO",Turner Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://143.244.60.30/TCM/index.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2466134.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/66242.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://143.244.60.30/HBO/index.m3u8
-#http://line.lemotv.cc:80/live/Ivica5274/juric4005/176050.m3u8
+#http://143.244.60.30/HBO/index.m3u8
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46713.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
