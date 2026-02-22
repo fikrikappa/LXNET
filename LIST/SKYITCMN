@@ -58,3 +58,52 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/692.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/693.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="Sports",BEIN SPORTS Fr MAX10
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/694.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-1
+https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636371.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-2
+https://wahyu1ptv.pages.dev/SSC2-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636372.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-3
+https://wahyu1ptv.pages.dev/SSC3-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636373.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-4
+https://wahyu1ptv.pages.dev/SSC4-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636375.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC-5
+https://wahyu1ptv.pages.dev/SSC5-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/1636374.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 1
+https://wahyu1ptv.pages.dev/SSCExtra1-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2541994.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 2
+https://wahyu1ptv.pages.dev/SSCExtra2-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/2541995.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC EXTRA 3
+https://wahyu1ptv.pages.dev/SSCExtra3-HD.m3u8
+#http://line.lemotv.cc:80/live/Ivica5274/juric4005/3056146.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqxaaET.pngg" group-title="Sports",SSC News
+http://line.lemotv.cc:80/live/Ivica5274/juric4005/3014017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT EXTRA
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-extra.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT PREMIUM
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-premium.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT FOOTBALL
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-football.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="Sports",V SPORT MOTOR
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-motor.m3u8?raw=true
+
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports Ten 1
+http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/7321.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports Ten 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187262.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378745.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400375287.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378746.m3u8
