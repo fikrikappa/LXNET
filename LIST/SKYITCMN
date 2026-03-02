@@ -107,3 +107,29 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378745.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400375287.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 5
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/378746.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN De 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/164488.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN De 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/164489.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De NFL
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156475.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De NBA
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156476.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De MLB
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156477.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De LFC
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/156478.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De RISE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="Sports",DAZN De FAST
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82241.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",DIGI 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",DIGI 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17310.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",DIGI 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17309.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",DIGI 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17308.m3u8
+
