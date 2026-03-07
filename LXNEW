@@ -714,41 +714,59 @@ http://eagle2024.xyz/live/staar_870012/MUK6qsGk/4857.m3u8
 
 <====================== 4K TV ========================>
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV", Sky Sports Main Event UHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Sky Sports Main Event UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/2000015
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV", Sky Sports F1 UHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Sky Sports F1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/2000016
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",TNT Sports Ultimate UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Astro Sports UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/9000001
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Now Sports 1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/9000011
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Hub Premier 2 UDH
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Hub Premier 2 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/9000012
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",V Sport UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/9000013
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",NESN UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/4000080
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Eleven Sports 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/14001
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Fashion TV UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/ftv4kuhd
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Bloomberg TV UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/blombuhd
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/lovent4k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Travelxp 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/travelxpuhd
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",HOME 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/home4k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",MUSEUM TV 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/msem4k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",Loupe 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/loupe4k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",MyZen 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/myzen4k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/ultra-hd-4k-logo-png_seeklogo-301105.png" group-title="4K TV",IRIB UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://a1xs.vip/iribuhd
 
 <====================== News ========================>
