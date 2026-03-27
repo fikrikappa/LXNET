@@ -336,13 +336,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
-http://cord-cutter.net:8080/live/JoanP@112/443@112/11645.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/345325.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
-http://cord-cutter.net:8080/JoanP@112/443@112/233922
+http://ott.premium-tv.org:80/live/wonton57/874893/303579.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
-http://supersonictv.live:8080/live/611366/682256/81864.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/328788.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE Legends
-http://cord-cutter.net:8080/JoanP@112/443@112/178860
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/178860.m3u8
 
 ============================================================================================
 
@@ -371,9 +371,9 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports",CANAL+ SPORT
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/250679.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/181486.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",CANAL+ 360
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/256122.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/180947.m3u8
 
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -385,24 +385,30 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 SP
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/201474.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/201356.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 SP
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/201475.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/59091.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN 3 SP
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/672723.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN mGP
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1883533.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/252724.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/178770.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN F1
+http://ott.premium-tv.org:80/live/wonton57/874893/140781.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 1
+http://ott.premium-tv.org:80/live/wonton57/874893/281438.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 2
+http://ott.premium-tv.org:80/live/wonton57/874893/59089.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",ELEVEN 1
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/264891.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/29988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",ELEVEN 2
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/264894.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/29987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 3
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/264895.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/29986.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 4
-http://lion20.top:8080/229815636887/192402289369/440933
+http://ott.premium-tv.org:80/live/wonton57/874893/29985.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 5
+http://ott.premium-tv.org:80/live/wonton57/874893/29984.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",ELEVEN 6
+http://ott.premium-tv.org:80/live/wonton57/874893/29983.m3u8
 #EXTINF:-1  tvg-name="Eleven Sports 1 4K" tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="Sports" radio="false",Eleven Sports 1 4K
 https://a1xs.vip/14001
 
@@ -549,6 +555,9 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rally.tv/favicon.ico" group-title="Sports",Rally TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.imgur.com/NRK8Uc6.png" group-title="Sports" radio="false",SKY Sport 1 NZ
 #https://a1xs.vip/700031
 https://7pal.short.gy/skyspt1nz
@@ -635,8 +644,8 @@ http://eagle2024.xyz/live/staar_870012/MUK6qsGk/148935.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/314793.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
-http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/136488.m3u8
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/287242.m3u8
+#http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/136488.m3u8
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5cbb5de6bb7e189352c611b0299a67ee3fac2fe0/BugsfreeStreams/StreamsTV-ID/skysportmotogp_8fd01d6b.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/383.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
@@ -645,21 +654,23 @@ http://eagle2024.xyz/live/staar_870012/MUK6qsGk/41140.m3u8
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/9194.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",SPORT TV1
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156952.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14107.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",SPORT TV2
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156953.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="Sports",SPORT TV3
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156955.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14105.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports",SPORT TV4
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156956.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14099.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",SPORT TV5
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156957.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14098.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="Sports",SPORT TV6
-http://lion20.top:8080/229815636887/192402289369/4757
+http://ott.premium-tv.org:80/live/wonton57/874893/215658.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Sports",SPORT TV7
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/14246.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/402391.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV+
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/156951.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/14108.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV 4k
+http://ott.premium-tv.org:80/live/wonton57/874893/155045.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -683,23 +694,24 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000021
-https://7pal.short.gy/tntspts1
+http://013tv.com:8080/live/F13836/35b68aca/270.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000022
-https://7pal.short.gy/tntspts2
+http://013tv.com:8080/live/F13836/35b68aca/273.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000023
-https://7pal.short.gy/tntspts3
+http://013tv.com:8080/live/F13836/35b68aca/271.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000024
-https://7pal.short.gy/tntspts4
+http://013tv.com:8080/live/F13836/35b68aca/298471.m3u8
 #EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000025
-https://7pal.short.gy/tntspts5
+http://013tv.com:8080/live/F13836/35b68aca/1124.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -726,17 +738,17 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/4859.m3u8
+http://013tv.com:8080/live/F13836/35b68aca/851.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 2
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/4861.m3u8
+http://013tv.com:8080/live/F13836/35b68aca/2502.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 3
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/4854.m3u8
+http://013tv.com:8080/live/F13836/35b68aca/4515.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 4
-https://a1xs.vip/140004
+http://013tv.com:8080/live/F13836/35b68aca/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 5
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport5.m3u8
+http://013tv.com:8080/live/F13836/35b68aca/5327.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/4857.m3u8
+http://013tv.com:8080/live/F13836/35b68aca/4514.m3u8
 
 <====================== UHD | 4K ========================>
 
@@ -962,79 +974,40 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-
-#EXTINF:-1 tvg-name="00S REPLAY" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="HBO",00s Replay
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-name="90S Throwback" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="HBO",90s Throwback
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-name="80S Rewind" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="HBO",80s Rewind
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault 80s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028397.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault Classics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/3028395.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="HBO",Cinevault Western
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.lemotv.cc:80/live/Ivica5274/juric4005/1777690.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="HBO",Turner Classic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/JoanP@112/443@112/66242.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO",US HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/HBO/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/9264.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/9264.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiWBsLQ.png" group-title="HBO",US HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/HBO_2/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/9816.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/9816.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="HBO",US HBO Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/HBO_COMEDY/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/17773.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/17773.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",US HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/HBO_FAMILY/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/17772.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/17772.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="HBO",US HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/JoanP@112/443@112/9266.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/9266.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="HBO",US HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/HBO_ZONE/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/9265.m3u8
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/9265.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="HBO",US 5StarMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/13381.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/13381.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="HBO",US CineMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/CINEMAX_EAST/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/13380.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/13380.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="HBO",US ActionMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/JoanP@112/443@112/21013.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/21013.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="HBO",US MoreMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/17776.m3u8
-
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/17776.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="HBO",US OuterMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://143.244.60.30/OUTER_MAX/index.m3u8
-http://cord-cutter.net:8080/live/JoanP@112/443@112/21012.m3u8
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/21012.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AKsg0q3.png" group-title="HBO",US FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1517,7 +1490,7 @@ https://mic.siar.us/mic/live/mic_720p.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/stingrayinconcerts.jpg" group-title="MUSIC",STINGRAY ICONCERTS
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/stingrayinconcerts.jpg" group-title="Music",STINGRAY ICONCERTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
