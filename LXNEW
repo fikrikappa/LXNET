@@ -694,15 +694,15 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000021
-http://013tv.com:8080/live/F13836/35b68aca/270.m3u8
+http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1687.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000022
-http://013tv.com:8080/live/F13836/35b68aca/273.m3u8
+http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1688.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000023
-http://013tv.com:8080/live/F13836/35b68aca/271.m3u8
+http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1689.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://a1xs.vip/2000024
