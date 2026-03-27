@@ -585,13 +585,14 @@ https://7pal.short.gy/skyspt8nz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://a1xs.vip/2000012
+http://ott.premium-tv.org:80/live/wonton57/874893/416300.m3u8
+#https://a1xs.vip/2000012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://a1xs.vip/2000011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS ARENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153705.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/215906.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="Sports",SKYSPORTS CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://a1xs.vip/2000006
@@ -644,8 +645,7 @@ http://eagle2024.xyz/live/staar_870012/MUK6qsGk/148935.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Max
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/314793.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport motoGp
-#http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/136488.m3u8
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5cbb5de6bb7e189352c611b0299a67ee3fac2fe0/BugsfreeStreams/StreamsTV-ID/skysportmotogp_8fd01d6b.m3u8
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport NBA
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/383.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/512px-Sky_Sport_-_Logo_2020.svg.png",SkySport Tennis
@@ -693,25 +693,16 @@ https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#https://a1xs.vip/2000021
-http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1687.m3u8
+https://v.antsports.tv/live/3/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#https://a1xs.vip/2000022
-http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1688.m3u8
+https://v.antsports.tv/live/4/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#https://a1xs.vip/2000023
-http://vipkendrake.top:8080/live/VIP018931749329001479/f9fb9e225596/1689.m3u8
+https://v.antsports.tv/live/5/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#https://a1xs.vip/2000024
-http://013tv.com:8080/live/F13836/35b68aca/298471.m3u8
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="Sports",TNT SPORTS 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#https://a1xs.vip/2000025
-http://013tv.com:8080/live/F13836/35b68aca/1124.m3u8
-
+https://v.antsports.tv/live/6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -738,56 +729,50 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
-http://013tv.com:8080/live/F13836/35b68aca/851.m3u8
+http://013tv.com:8080/F13836/35b68aca/851
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 2
-http://013tv.com:8080/live/F13836/35b68aca/2502.m3u8
+http://013tv.com:8080/F13836/35b68aca/2502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 3
-http://013tv.com:8080/live/F13836/35b68aca/4515.m3u8
+http://013tv.com:8080/F13836/35b68aca/4515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 4
-http://013tv.com:8080/live/F13836/35b68aca/2500.m3u8
+http://013tv.com:8080/F13836/35b68aca/2500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 5
-http://013tv.com:8080/live/F13836/35b68aca/5327.m3u8
+http://013tv.com:8080/F13836/35b68aca/5327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
-http://013tv.com:8080/live/F13836/35b68aca/4514.m3u8
+http://013tv.com:8080/F13836/35b68aca/4514
 
 <====================== UHD | 4K ========================>
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
-https://a1xs.vip/2000015
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD
-https://a1xs.vip/2000016
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD
-https://a1xs.vip/2000031
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="UHD | 4K",MY: Astro Sports UHD
-https://a1xs.vip/9000001
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="HK: Now Sports 1 4k" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="UHD | 4K",HK: Now Sports 1 4k
-https://a1xs.vip/9000011
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hubp2.png" group-title="UHD | 4K",SG: Hub Premier 2 UHD
-https://a1xs.vip/9000012
-#EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="UHD | 4K",SE: V Sport Ultra HD
-https://a1xs.vip/9000013
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K",US: NESN UHD
-https://a1xs.vip/4000080
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Eleven Sports 1 4K
-https://a1xs.vip/14001
-#EXTINF:-1 tvg-id="Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
-https://a1xs.vip/ftv4kuhd
-#EXTINF:-1 tvg-id="Bloomberg.Business.Television.us2" tvg-name="Bloomberg TV UHD" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="UHD | 4K",Bloomberg TV UHD
-https://a1xs.vip/blombuhd
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="UHD | 4K",Love Nature 4K
-https://a1xs.vip/lovent4k
-#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="UHD | 4K",Travelxp 4K
-https://a1xs.vip/travelxpuhd
-#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="UHD | 4K",HOME 4K
-https://a1xs.vip/home4k
-#EXTINF:-1 tvg-id="Museum.4k.ro" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.ibb.co/TDXLDk4y/Museum-4-K.png" group-title="UHD | 4K",MUSEUM TV 4K
-https://a1xs.vip/msem4k
-#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="UHD | 4K",Loupe 4K
-https://a1xs.vip/loupe4k
-#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="UHD | 4K",MyZen 4K
-https://a1xs.vip/myzen4k
-#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="IRIB UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="UHD | 4K",IRIB UHD
-https://a1xs.vip/iribuhd
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="4K UHD",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="4K UHD",Astro Sports UHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="4K UHD",beIN 4K
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="4K UHD",Now Sports 1 4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="4K UHD",Hub Premier 2 UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports | 4K UHD",V Sport UltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="4K UHD",TNT Sport Ultimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="4K UHD",ElevenSport1 4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="4K UHD",Prima4K
+https://7pal.short.gy/prima4k
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="4K UHD",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="4K UHD",Ziggo Sport UHD
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="4K UHD"",Sport5_4k
+https://7pal.short.gy/5sport
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="4K UHD",EuroSport 4K 
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="4K UHD",M+LaLiga UHD 
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="4K UHD",NESN UHD
+https://7pal.short.gy/nesnuhd
 #EXTINF:-1 group-title="UHD | 4K" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 4K
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
