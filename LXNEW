@@ -664,13 +664,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 01" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT SPORTS 01
-http://lunar.pm:8080/Cynthiab/Travel66/100775
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/TNT1.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 02" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT SPORTS 02
-http://lunar.pm:8080/Cynthiab/Travel66/100776
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/TNT2.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 03" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT SPORTS 03
-http://lunar.pm:8080/Cynthiab/Travel66/100777
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/TNT3.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 04" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT SPORTS 04
-http://lunar.pm:8080/Cynthiab/Travel66/100778
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/TNT4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -697,17 +697,17 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 1
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16307
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 2
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16335
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 3
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16336
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 4
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16333
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 5
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16276
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
-http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16277
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG6.m3u8
 
 <====================== UHD | 4K ========================>
 
