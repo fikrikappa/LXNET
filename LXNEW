@@ -664,16 +664,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 01" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT SPORTS 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://lunar.pm:8080/Cynthiab/Travel66/100775
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 02" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT SPORTS 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://lunar.pm:8080/Cynthiab/Travel66/100776
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 03" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT SPORTS 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://lunar.pm:8080/Cynthiab/Travel66/100777
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 04" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT SPORTS 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://lunar.pm:8080/Cynthiab/Travel66/100778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
