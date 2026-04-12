@@ -74,19 +74,19 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia Channels",TransTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/live/trans-tv
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1924881157_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/330px-Trans_TV_2013.svg.png" group-title="Indonesia Channels",TransTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia Channels",Trans7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.transtv.co.id
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1813000593_b744100_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="Indonesia Channels",RCTI Live
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
@@ -531,13 +531,13 @@ https://a1xs.vip/700006
 https://a1xs.vip/700007
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
-https://nl.utako.moe/js1/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",JSports 2		
-https://nl.utako.moe/js2/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 #EXTINF:1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",JSports 3		
-https://nl.utako.moe/js3/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",JSports 4		
-https://nl.utako.moe/js4/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:1 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2MGRxy.png" group-title="Sports",Sport Live Plus
