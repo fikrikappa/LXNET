@@ -880,6 +880,12 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-url="https://bit.ly/IndonesiaEpg" group-title="News",	Al Saudiya Alaan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aloula.sba.sa/
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8https://live.kwikmotion.com/ksasports4live/ksasports4.smil/ksasports4publish/ksasports4_source/hdntl=exp=1779859284~acl=%2fksasports4live%2fksasports4.smil%2f*~data=hdntl~hmac=7b4cce8ef0a3d0aaae4f70d4c7632258ad2caf5f9f29d750ef8106e6a8996b67/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png" group-title="News",Voice Of America
 #KODIPROP:inputstream=inputstream.ffmpegdirect
