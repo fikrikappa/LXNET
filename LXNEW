@@ -534,18 +534,18 @@ https://a1xs.vip/700006
 #EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Sports" radio="false",Fox Sports 507 NZ
 https://a1xs.vip/700007
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",JSports 1		
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",JSports 2		
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",JSports 3		
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",JSports 4		
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:1 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora Sports
-https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2MGRxy.png" group-title="Sports",Sport Live Plus
-https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title=""Sports" tvg-id="jsports1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",JSport 1
+https://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Sports" tvg-id="jsports2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",JSport 2
+https://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Sports" tvg-id="jsports3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",JSport 3
+https://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title=""Sports" tvg-id="jsports4.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",JSport 4
+https://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Sports" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",GAORA
+https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Sports" tvg-id="sportsliveplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png",Sport Live Plus
+https://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports" ,Prima Sport 1 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1500,81 +1500,117 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ================================== JAPAN ========================================
 
-#EXTINF:-1 group-title="CS" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
+https://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
+https://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+https://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+https://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
+https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
+https://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
+https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+https://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
+https://akariko.netgenx.site/stream/jp/bsyoshimoto/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="wowowprime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW Prime
+https://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="wowowcinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW Cinema
+https://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="wowowlive.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",WOWOW Live
+https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs10プレミアム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-201-400x400.png",BS 10 Premium
+https://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="greenchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",Green Channel
+https://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="animax.in" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png",Animax
+https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="wowowplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png",WOWOW Plus
+https://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png",Disney Channel
+https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A
 https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",GAORA
-https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",AT-X
+#EXTINF:-1 group-title="JAPAN" tvg-id="atx.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",AT-X
 https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="axn.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png",Action Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="axn.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png",Action Channel
 https://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="mysterychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png",Mystery Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="mysterychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png",Mystery Channel
 https://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png",Space Shower TV
+#EXTINF:-1 group-title="JAPAN" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png",Space Shower TV
 https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="mtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
+#EXTINF:-1 group-title="JAPAN" tvg-id="mtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
 https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",Kayo Pops
+#EXTINF:-1 group-title="JAPAN" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",Kayo Pops
 https://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png",Kids Station
+#EXTINF:-1 group-title="JAPAN" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png",Kids Station
 https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network
+#EXTINF:-1 group-title="JAPAN" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network
 https://akariko.netgenx.site/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",NTV G+
+#EXTINF:-1 group-title="JAPAN" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",NTV G+
 https://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="nitteleplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png",NTV Plus
+#EXTINF:-1 group-title="JAPAN" tvg-id="nitteleplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png",NTV Plus
 https://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="ntvnews24.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",NTV News24
+#EXTINF:-1 group-title="JAPAN" tvg-id="ntvnews24.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",NTV News24
 https://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="familygekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png",Family Gekijo
+#EXTINF:-1 group-title="JAPAN" tvg-id="familygekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png",Family Gekijo
 https://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="mondotv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",Mondo TV
+#EXTINF:-1 group-title="JAPAN" tvg-id="mondotv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",Mondo TV
 https://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-162-400x400.png",Music On TV
+#EXTINF:-1 group-title="JAPAN" tvg-id="musicontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-162-400x400.png",Music On TV
 https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="musicair.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",Music Air
+#EXTINF:-1 group-title="JAPAN" tvg-id="musicair.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",Music Air
 https://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="mnet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png",Mnet
+#EXTINF:-1 group-title="JAPAN" tvg-id="mnet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png",Mnet
 https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="golfnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",Golf Network
+#EXTINF:-1 group-title="JAPAN" tvg-id="golfnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",Golf Network
 https://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png",The Cinema
+#EXTINF:-1 group-title="JAPAN" tvg-id="thecinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png",The Cinema
 https://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tbschannel1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",TBS Channel 1
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbschannel1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",TBS Channel 1
 https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tbschannel2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",TBS Channel 2
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbschannel2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",TBS Channel 2
 https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png",TV Asahi Channel 1
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahichannel1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png",TV Asahi Channel 1
 https://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png",TV Asahi Channel 2
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahichannel2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png",TV Asahi Channel 2
 https://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png",Fuji TV One
+#EXTINF:-1 group-title="JAPAN" tvg-id="fujitvone.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png",Fuji TV One
 https://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvtwo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png",Fuji TV Two
+#EXTINF:-1 group-title="JAPAN" tvg-id="fujitvtwo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png",Fuji TV Two
 https://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvnext.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",Fuji TV Next
+#EXTINF:-1 group-title="JAPAN" tvg-id="fujitvnext.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",Fuji TV Next
 https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="channelneco.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png",Neco Channel
-https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="dlife.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png",Dlife
+#EXTINF:-1 group-title="JAPAN" tvg-id="dlife.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png",Dlife
 https://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="toeichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png",Toei Channel
-https://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fightingtvsamurai.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png",Fighting TV Samurai
+#EXTINF:-1 group-title="JAPAN" tvg-id="fightingtvsamurai.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png",Fighting TV Samurai
 https://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="entermeitele.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png",Mei-Tele Next
+#EXTINF:-1 group-title="JAPAN" tvg-id="entermeitele.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png",Mei-Tele Next
 https://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png",Sport Live Plus
-https://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="homedramachannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png",Home Drama Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="homedramachannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png",Home Drama Channel
 https://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png",Channel Ginga
+#EXTINF:-1 group-title="JAPAN" tvg-id="channelginga.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png",Channel Ginga
 https://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tabichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png",Tabi Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="tabichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png",Tabi Channel
 https://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="pigoo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_663.gif",Pigoo (NSFW)
+#EXTINF:-1 group-title="JAPAN" tvg-id="toeichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png",Toei Channel
+https://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png",Nihon Eiga Senmon
+https://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="channelneco.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png",Neco Channel
+https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JAPAN" tvg-id="pigoo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_663.gif",Pigoo (NSFW)
 https://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="vparadise.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise (NSFW)
+#EXTINF:-1 group-title="JAPAN" tvg-id="vparadise.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise (NSFW)
 https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 #EXTM3U billed-msg="Always Refresh -- For Private Only"
