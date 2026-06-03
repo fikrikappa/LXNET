@@ -197,13 +197,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a
 
 ============================== SPORTS ======================================================
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://shorter.me/_bDcr", LIVE EVENT - BRI LIGA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
-
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -362,14 +355,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE HD
-http://ott.premium-tv.org:80/live/wonton57/874893/345325.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE NET
-http://ott.premium-tv.org:80/live/wonton57/874893/303579.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE LIVE
-http://ott.premium-tv.org:80/live/wonton57/874893/328788.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE CHANNEL" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE Legends
-http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/178860.m3u8
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE 1
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/wwe1
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE 2
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/wwe2
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE TV" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Sports",WWE 3
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/wwe3
+
 
 ============================================================================================
 
@@ -412,17 +404,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 SP
-http://ott.premium-tv.org:80/live/wonton57/874893/201356.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn1sp.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 SP
-http://ott.premium-tv.org:80/live/wonton57/874893/59091.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",DAZN 3 SP
-http://ott.premium-tv.org:80/live/wonton57/874893/178770.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn2sp.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN F1
-http://ott.premium-tv.org:80/live/wonton57/874893/140781.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznf1sp.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 1
-http://ott.premium-tv.org:80/live/wonton57/874893/281438.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla1.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 2
-http://ott.premium-tv.org:80/live/wonton57/874893/59089.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla2.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",ELEVEN 1
 http://ott.premium-tv.org:80/live/wonton57/874893/29988.m3u8
@@ -611,11 +601,9 @@ https://7pal.short.gy/skyspt7nz
 https://7pal.short.gy/skyspt8nz
 
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" group-title="Sports",SKYSPORTS +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100765
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspplus.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",SKYSPORTS ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100764
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspact.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" group-title="Sports",SKYSPORTS ARENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://ott.premium-tv.org:80/live/wonton57/874893/215906.m3u8
@@ -623,53 +611,42 @@ http://ott.premium-tv.org:80/live/wonton57/874893/215906.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://lunar.pm:8080/Cynthiab/Travel66/100766
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",SKYSPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100769
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspf1.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",SKYSPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100767
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspfoot.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",SKYSPORTS GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100768
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspgolf.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",SKYSPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100770
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspmain4k.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="Sports",SKYSPORTS MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/103987
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspmix.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="Sports",SKYSPORTS NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100772
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspnews.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="Sports",SKYSPORTS PREMIER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100773
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspepl.m3u
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png" group-title="Sports",SKYSPORTS RACING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100774
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skyspepl.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png" group-title="Sports",SKYSPORTS TENNIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://lunar.pm:8080/Cynthiab/Travel66/100765
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/skysptenn.m3u
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/960px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",SkySport motoGp
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+https://github.com/fikrikappa/LXNET/raw/refs/heads/main/LIST/SkySportMotoGP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",SPORT TV1
-http://ott.premium-tv.org:80/live/wonton57/874893/14107.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266568
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",SPORT TV2
-http://ott.premium-tv.org:80/live/wonton57/874893/14101.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266567
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="Sports",SPORT TV3
-http://ott.premium-tv.org:80/live/wonton57/874893/14105.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports",SPORT TV4
-http://ott.premium-tv.org:80/live/wonton57/874893/14099.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266560
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",SPORT TV5
-http://ott.premium-tv.org:80/live/wonton57/874893/14098.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="Sports",SPORT TV6
-http://ott.premium-tv.org:80/live/wonton57/874893/215658.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Sports",SPORT TV7
-http://ott.premium-tv.org:80/live/wonton57/874893/402391.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV+
-http://ott.premium-tv.org:80/live/wonton57/874893/14108.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",SPORT TV 4k
-http://ott.premium-tv.org:80/live/wonton57/874893/155045.m3u8
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/266551
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -756,6 +733,15 @@ https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG4.m3u
 https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PLPwG.png" group-title="Sports",Ziggo Sport 6
 https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/ZIG6.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", LIVE 1 - WC
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/325874
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", LIVE 2 - WC
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/325875
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", LIVE 3 - WC
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/325876
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", LIVE 4 - WC
+http://tvmate.icu:8080/rachelle@pilon/rachelle@2024/325877
 
 <====================== News ========================>
 
