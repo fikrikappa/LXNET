@@ -7,4 +7,4 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-STREAM-INF:BANDWIDTH=500000
 #EXTINF:1,
-http://lunar.pm:8080/Cynthiab/Travel66/121426
+http://lunar.pm:8080/live/Cynthiab/Travel66/121426.m3u8
