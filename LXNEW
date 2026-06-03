@@ -404,15 +404,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 SP
-https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn1sp.m3u
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn1sp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 SP
-https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn2sp.m3u
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/dazn2sp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN F1
-https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznf1sp.m3u
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznf1sp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 1
-https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla1.m3u
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN LaLiga 2
-https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla2.m3u
+https://raw.githubusercontent.com/fikrikappa/LXNET/refs/heads/main/LIST/daznla2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",ELEVEN 1
 http://ott.premium-tv.org:80/live/wonton57/874893/29988.m3u8
